@@ -16,6 +16,7 @@ Seattle home values have gone up over the past year and are expected to continue
   * tidyverse
   * ggplot2
   * gridExtra
+* Tableau
 
 # Technical Appendix
 * [Python Notebook](https://github.com/kilee722/House_Sale_King_County/blob/main/Hous_Sales_EDA_R.Rmd)
